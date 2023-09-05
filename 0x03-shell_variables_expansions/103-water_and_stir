@@ -1,4 +1,2 @@
 #!/bin/bash
-$((WATER + STIR))
-echo "obase=bestchol; ibase=water; $result" | bc
-````
+echo "obase=bestchol; ibase=water; $result" | bc````
